@@ -3,7 +3,8 @@
 
 I am a passionate creator who loves exploring different mediums and expressing myself through design, and technology. My main areas of focus include:
 - MERN Stack
-- Javascript Developer <br/><br/>Currently, I am learning cloud-based services and looking to collaborate on MERN Stack, and Cloud.
+- Javascript Developer
+- DSA (C++) <br/><br/>
 
 ## 👨🏻‍💻Skills
 
@@ -34,7 +35,6 @@ I am a passionate creator who loves exploring different mediums and expressing m
 Feel free to reach out to me if you have any questions or collaboration ideas:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bathanikeyur@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/keyur_bathani_199/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keyur-bathani-62a18b247/)
 <br>
 <br>
