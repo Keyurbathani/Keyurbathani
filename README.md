@@ -7,7 +7,9 @@ I am a passionate creator who loves exploring different mediums and expressing m
 - Python & Data Science Enthusiast
 
 
+👋I Completed My Bachelor of Engineering in Information Technology at LD College of Engineering. I have a strong foundation in MERN (Full Stack) development and with a particular interest in Data Structures and Algorithms (DSA).
 
+I'm enthusiastic about leveraging Data science , Artificial intelligence and Data analytics create innovative solutions that empower businesses and enhance user experiences. I also Interested to learn new technologies
 
 ---
 
@@ -21,8 +23,7 @@ I am a passionate creator who loves exploring different mediums and expressing m
 ### 🔹 Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-00457C?style=for-the-badge&logo=.net&logoColor=white)
+![.NET Core Mvc](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🔹 Backend Development  
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
