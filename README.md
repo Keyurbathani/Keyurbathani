@@ -9,7 +9,7 @@ I am a passionate creator who loves exploring different mediums and expressing m
 
 👋I Completed My Bachelor of Engineering in Information Technology at LD College of Engineering. I have a strong foundation in MERN (Full Stack) development and with a particular interest in Data Structures and Algorithms (DSA).
 
-I'm enthusiastic about leveraging Data science , Artificial intelligence and Data analytics create innovative solutions that empower businesses and enhance user experiences. I also Interested to learn new technologies
+I'm enthusiastic about leveraging Data science , Artificial intelligence and Data analytics create innovative solutions that empower businesses and enhance user experiences. I also Interested to learn new Technologies.
 
 ---
 
